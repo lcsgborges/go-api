@@ -82,9 +82,3 @@ A API oferece os seguintes endpoints:
 - **POST /product**: Cria um novo produto.
 - **GET /product/:productId**: Retorna um produto pelo ID.
 - **DELETE /product/:productId**: Deleta um produto pelo ID.
-
-Eu utilizei o Postman, mas sinta-se livre para utilizar a que preferir para testar a API.
-
-## Contribuindo
-
-Caso queira contribuir, basta fazer um fork do projeto, criar sua feature, e enviar um pull request.
